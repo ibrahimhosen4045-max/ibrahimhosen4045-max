@@ -31,3 +31,7 @@
 [![](https://komarev.com/ghpvc/?username=ibrahimhosen4045-max&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BYoSLvNiK/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hosen-77q?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+
