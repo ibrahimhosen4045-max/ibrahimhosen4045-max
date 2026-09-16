@@ -116,7 +116,7 @@ GitHub
 LinkedIn
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#">
+<a href="https://my-portfolio-jet-six-40.vercel.app">
 Portfolio
 </a>
 
