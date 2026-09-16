@@ -108,24 +108,21 @@ Open Source Collaboration & Freelance Opportunities
 
 <div align="center">
 
-<a href="">
+<a href="https://github.com/ibrahimhosen4045-max">
 GitHub
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="">
+<a href="linkedin.com/in/ibrahim-hosen-77q">
 LinkedIn
 </a>
-<!-- &nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#">
 Portfolio
-</a> -->
+</a>
+
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="">
 Email
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="">
-Twitter
 </a>
 
 </div>
