@@ -99,25 +99,9 @@ Open Source Collaboration & Freelance Opportunities
 
 
 # GitHub Analytics
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=shariarnafis45&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-/>
-
-
-</div>
-
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shariarnafis45&theme=transparent&hide_border=true" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=ibrahimhosen4045-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ibrahimhosen4045-max&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahimhosen4045-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 # Connect
