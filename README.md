@@ -2,28 +2,24 @@
 
 <img src="./assets/banner.png" alt="Shariar Nafis Banner" width="100%" />
 
-# Shariar Nafis
+# Ibrahim Hosen
 
-### Full Stack Web Developer
+### MERN Stack Developer
 
 Building scalable, high-performance web applications with clean architecture, intuitive user experiences, and maintainable code.
 
 <p>
-  <a href="https://github.com/shariarnafis45">
+  <a href="https://github.com/ibrahimhosen4045-max">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/shariarnafis">
+  <a href="linkedin.com/in/ibrahim-hosen-77q">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> -->
-  <a href="mailto:nafisshahworkmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=shariarnafis45&label=Profile%20Views&color=111111&style=flat-square" />
 
 </div>
 
