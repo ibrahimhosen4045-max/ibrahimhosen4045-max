@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="" width="100%" />
+<img src="https://i.ibb.co.com/xtngWfsQ/banner.png" alt="" width="100%" />
 
 # Ibrahim Hosen
 
