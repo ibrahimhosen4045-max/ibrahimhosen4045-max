@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Shariar Nafis Banner" width="100%" />
+<img src="./assets/banner.png" alt="" width="100%" />
 
 # Ibrahim Hosen
 
