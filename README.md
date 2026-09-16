@@ -98,30 +98,6 @@ Open Source Collaboration & Freelance Opportunities
 </div>
 
 
-# Featured Projects
-
-## LegalEase
-
-Modern lawyer hiring platform connecting clients with legal professionals through a clean and scalable user experience.
-
-**Tech Stack**
-
-`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Legal-Ease) &nbsp; &#8226; &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
-
-
-## HireLoop
-
-A modern hiring platform designed to simplify recruitment workflows for employers and job seekers.
-
-**Tech Stack**
-
-`Next.js` • `Express.js` • `MongoDB`
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Hire-Loop-Client) &nbsp; &#8226; &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://hire-loop-nafix.vercel.app/)
-
-
 # GitHub Analytics
 
 <div align="center">
@@ -148,11 +124,11 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=shariarnafis
 
 <div align="center">
 
-<a href="https://github.com/shariarnafis45">
+<a href="">
 GitHub
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shariarnafis">
+<a href="">
 LinkedIn
 </a>
 <!-- &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -160,11 +136,11 @@ LinkedIn
 Portfolio
 </a> -->
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:nafisshahworkmail@gmail.com">
+<a href="">
 Email
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://x.com/shariarnafis45">
+<a href="">
 Twitter
 </a>
 
