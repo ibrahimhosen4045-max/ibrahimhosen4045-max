@@ -1,79 +1,197 @@
-# 💫 Hi 👋, I'm Ibrahim hosen
+<div align="center">
 
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/DgHYKfKf/Chat-GPT-Image-Aug-7-2026-02-21-50-PM.png)
+<img src="./assets/banner.png" alt="Shariar Nafis Banner" width="100%" />
 
-# 💻 Tech Stack:
+# Shariar Nafis
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0; padding: 0;">
+### Full Stack Web Developer
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-</a>
+Building scalable, high-performance web applications with clean architecture, intuitive user experiences, and maintainable code.
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-</a>
-
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" />
-</a>
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-</a>
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-</a>
-
+<p>
+  <a href="https://github.com/shariarnafis45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shariarnafis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+  <a href="mailto:nafisshahworkmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://komarev.com/ghpvc/?username=shariarnafis45&label=Profile%20Views&color=111111&style=flat-square" />
+
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ibrahimhosen4045-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ibrahimhosen4045-max&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahimhosen4045-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# About Me
+
+I'm a **Full Stack Web Developer** based in **Dhaka, Bangladesh**, passionate about building scalable, performant, and user-focused web applications.
+
+My primary stack includes **Next.js, React, Node.js, Express.js, and MongoDB**, allowing me to build complete end-to-end solutions—from intuitive user interfaces to secure backend APIs.
+
+I enjoy transforming ideas into production-ready digital products while maintaining clean architecture, reusable code, and exceptional user experience.
 
 
+# Currently
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibrahimhosen4045-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌱 **Learning**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ibrahimhosen4045-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
+System Design & Scalable Backend Architecture
 
----
-[![](https://komarev.com/ghpvc/?username=ibrahimhosen4045-max&icon=0&color=0)](https://visitcount.itsvg.in)
+</td>
+<td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 **Building**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BYoSLvNiK/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hosen-77q?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+Production-ready Full Stack Applications with Next.js
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💡 **Exploring**
+
+Performance Optimization, Authentication & Clean Architecture
+
+</td>
+<td>
+
+🎯 **Goal**
+
+Building software that creates real-world impact.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🤝 **Open To**
+
+Open Source Collaboration & Freelance Opportunities
+
+</td>
+<td>
+
+📫 **Reach Me**
+
+**nafisshahworkmail@gmail.com**
+
+</td>
+</tr>
+</table>
+
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css,nodejs,express,mongodb,wordpress,git,github,vscode,postman,figma,vercel&perline=8"/>
+
+</div>
+
+
+# Featured Projects
+
+## LegalEase
+
+Modern lawyer hiring platform connecting clients with legal professionals through a clean and scalable user experience.
+
+**Tech Stack**
+
+`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Legal-Ease) &nbsp; &#8226; &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
+
+
+## HireLoop
+
+A modern hiring platform designed to simplify recruitment workflows for employers and job seekers.
+
+**Tech Stack**
+
+`Next.js` • `Express.js` • `MongoDB`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Hire-Loop-Client) &nbsp; &#8226; &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://hire-loop-nafix.vercel.app/)
+
+
+# GitHub Analytics
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=shariarnafis45&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+/>
+
+
+</div>
+
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shariarnafis45&theme=transparent&hide_border=true" />
+
+</div>
+
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/shariarnafis45">
+GitHub
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shariarnafis">
+LinkedIn
+</a>
+<!-- &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#">
+Portfolio
+</a> -->
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:nafisshahworkmail@gmail.com">
+Email
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://x.com/shariarnafis45">
+Twitter
+</a>
+
+</div>
+
+
+<div align="center">
+
+*"Building software that is scalable, maintainable, and meaningful."*
+
+## Core Expertise
+
+🏗 Full Stack Web Development
+
+⚡ REST API Development
+
+🔐 Authentication & Authorization
+
+📱 Responsive UI Development
+
+🚀 Performance Optimization
+
+🧩 Clean Architecture
+
+💼 Modern SaaS Development
+</div>
